@@ -6,7 +6,11 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
+<<<<<<< HEAD
   path: ./app-740
+=======
+  path: ./manifests
+>>>>>>> refs/remotes/origin/main
   prune: true
   sourceRef:
     kind: Bucket
