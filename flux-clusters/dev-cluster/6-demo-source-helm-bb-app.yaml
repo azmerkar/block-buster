@@ -6,4 +6,6 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  url: https://sidd-harth.github.io/block-buster-helm-app
+  ref:
+    branch: main
+  url: https://github.com/azmerkar/block-buster-helm-app.git
