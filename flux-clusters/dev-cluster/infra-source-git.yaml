@@ -7,5 +7,5 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: infrastructure
+    branch: infrastructure 
   url: https://github.com/azmerkar/bb-app-source
